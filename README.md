@@ -20,4 +20,4 @@ go run main.go
 
 ## 运行时序图
 
-![时序图](https://github.com/treeforest/ca-example//ca.png)
+![时序图](https://github.com/treeforest/ca-example/blob/main/ca.png)
